@@ -2,7 +2,7 @@
 <h3 align=>A passionate Machine Learning Engineer.</h3>
 <h4 align=>Currently studying Software Engineering, BSc.</h4>
 
-- 🔭 I’m currently working on **Deep Learning and related fields.**
+- 🔭 My interests are in **Computer Vision, NLP, and Bayesian Deep Learning.**
 - 📫 You can reach me via my email: **kaan.bicakci@kalybeai.com**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
