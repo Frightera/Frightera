@@ -3,7 +3,7 @@
 <h4 align=>Currently studying Software Engineering, BSc.</h4>
 
 - 🔭 My interests are in **Computer Vision, NLP, and Bayesian Deep Learning.**
-- 📫 You can reach me via my email: **kaan.bicakci@kalybeai.com**
+<!-- - 📫 You can reach me via my email: **kaan.bicakci@kalybeai.com** -->
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 
