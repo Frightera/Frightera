@@ -14,6 +14,13 @@
 
 <!-- <a href="https://github.com/Frightera/github-readme-stats"><img alt="Frightera's stats" src="https://github-readme-stats.vercel.app/api?username=Frightera&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></a> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frightera&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="frightera" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frightera&label=Profile%20views&color=a1b40e&style=flat-square" alt="frightera" /> </p>
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frightera&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="Frightera's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Frightera&show_icons=true&theme=radical" alt="frightera" />
+</div>
+<br clear="both" />
+
+![](https://komarev.com/ghpvc/?username=Frightera&color=green)
+
+
