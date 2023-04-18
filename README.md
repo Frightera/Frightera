@@ -17,7 +17,7 @@
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frightera&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="Frightera's GitHub stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Frightera&show_icons=true&theme=radical" alt="frightera" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Frightera&show_icons=true&theme=radical&count_private=true" alt="frightera" />
 </div>
 <br clear="both" />
 
