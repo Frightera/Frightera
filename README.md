@@ -21,6 +21,13 @@
 </div>
 <br clear="both" />
 
+<div>
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Frightera&theme=aura_dark" alt="Frightera's GitHub stats" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Frightera&theme=aura_dark&utcOffset=8" alt="frightera" />
+</div>
+<br clear="both" />
+
+
 ![](https://komarev.com/ghpvc/?username=Frightera&color=green)
 
 
