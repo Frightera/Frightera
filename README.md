@@ -16,8 +16,7 @@
 
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frightera&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="Frightera's GitHub stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Frightera&show_icons=true&theme=radical&count_private=true" alt="frightera" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Frightera&theme=aura_dark" alt="Frightera's GitHub stats" />
 </div>
 <br clear="both" />
 
@@ -27,6 +26,11 @@
 </div>
 <br clear="both" />
 
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Frightera&show_icons=true&theme=radical&count_private=true" alt="Frightera's GitHub stats" />
+</div>
+
+<br clear="both" />
 
 ![](https://komarev.com/ghpvc/?username=Frightera&color=green)
 
