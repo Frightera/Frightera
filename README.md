@@ -14,10 +14,13 @@
 
 ## My Opensource Contributions (Includes Open PRs):
 
-| [TF/Probability - 3D Convolution Fix](https://github.com/tensorflow/probability/pull/1386) | [TF/Probability - DenseVariational Fix](https://github.com/tensorflow/probability/pull/1515) | [Keras - ConvNeXt Activation Fix](https://github.com/keras-team/keras/pull/17544) | [Keras - Add CategoricalFocalCrossEntropy](https://github.com/keras-team/keras/pull/17651) | [Keras - Backend Refactoring](https://github.com/keras-team/keras/pull/17746) | [Keras - Check Loss Function Differentiability](https://github.com/keras-team/keras/pull/17753) | [Keras - Validate Softmax Activation](https://github.com/keras-team/keras/pull/18105) | [Keras Docs - Reproducibility Recipes](https://github.com/keras-team/keras-io/pull/1353)
-| -- | -- | -- | -- | -- | -- | -- | --
+| [TF/Probability - 3D Convolution Fix](https://github.com/tensorflow/probability/pull/1386) | [TF/Probability - DenseVariational Fix](https://github.com/tensorflow/probability/pull/1515) | [Keras - ConvNeXt Activation Fix](https://github.com/keras-team/keras/pull/17544) | [Keras - Add CategoricalFocalCrossEntropy](https://github.com/keras-team/keras/pull/17651) |
+| -- | -- | -- | --
 
-And many fixes on docstrings, comments on issues, and answering questions related to TF/Keras on Stackoverflow (4.7K Rep).
+[Keras - Backend Refactoring](https://github.com/keras-team/keras/pull/17746) | [Keras - Check Loss Function Differentiability](https://github.com/keras-team/keras/pull/17753) | [Keras - Validate Softmax Activation](https://github.com/keras-team/keras/pull/18105) | [Keras Docs - Reproducibility Recipes](https://github.com/keras-team/keras-io/pull/1353)
+| -- | -- | -- | --
+
+#### And many other fixes on docstrings, comments on issues, and answering questions related to TF/Keras on Stackoverflow (4.7K Rep).
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
