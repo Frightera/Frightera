@@ -3,7 +3,7 @@
 
 - 🔭 My interests are in **Computer Vision, NLP, and Bayesian Deep Learning.**
 - You can reach me via my email: **Kaan.Bicakci@wtwco.com**
-- My Youtube channel: https://www.youtube.com/@ezberindisinacikmak
+- My Youtube channel: https://www.youtube.com/@kaanbicakci
 - Cofounder of: https://github.com/EmKa-Academy
 - My Personal Website: https://www.kaanbicakci.com/
 <!-- <h3 align="left">Connect with me:</h3> -->
